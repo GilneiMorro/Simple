@@ -1,7 +1,7 @@
 <h1 align="center"> Simple Organic</h1>
 
 <p align="center">
-Pagina desenvolvida por Gilnei Morro.
+Desenvolvido por Gilnei Morro.
 </p>
 
 <p align="center">
